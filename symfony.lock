@@ -215,6 +215,9 @@
     "symfony/stopwatch": {
         "version": "v4.0.5"
     },
+    "symfony/templating": {
+        "version": "v4.1.0"
+    },
     "symfony/twig-bridge": {
         "version": "v4.0.5"
     },

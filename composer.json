@@ -19,6 +19,7 @@
         "symfony/framework-bundle": "^4.0",
         "symfony/lts": "^4@dev",
         "symfony/phpunit-bridge": "^4.1",
+        "symfony/templating": "v4.1.0",
         "symfony/twig-bundle": "^4.0",
         "symfony/var-dumper": "^4.0",
         "symfony/yaml": "^4.0",
